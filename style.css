@@ -1,11 +1,10 @@
-/* common utilities */
 body{
     margin: 0px;
 }
 
-/*-----------------------------------
-         Section-1 design 
--------------------------------------*/
+
+         /* Section-1 design  */
+
 .main-header{
     height: 677px;
     width: 100%;
@@ -50,9 +49,9 @@ body{
     height: 438px;
 }
 
-/* -----------------------------------
-            players style  
------------------------------------------*/
+
+            /* players style   */
+
 .container-1{
     background-color: #FFFFFF;
 }
@@ -84,9 +83,9 @@ body{
     box-shadow: 10px 10px 40px rgb(223, 219, 219);
 }
 
-/*-------------------------------------------------------------------
-                  Hightlights section 
----------------------------------------------------------------------*/
+
+                  /* Hightlights section  */
+
 .highlights{
     display: flex;
     justify-content: center;
@@ -112,9 +111,9 @@ body{
     padding: 20px;
 }
 
-/*-----------------------------------------------------------------
-                 copa america team style  
--------------------------------------------------------------------*/
+
+                 /* copa america team style   */
+
 .teams{
     display: flex;
     flex-direction: column;
@@ -180,9 +179,9 @@ input[type=submit]:hover {
     background-color: #a04572;
 }
 
-/*----------------------------------------------------------------------
-                            footer style 
------------------------------------------------------------------------ */
+
+                            /* footer style  */
+
 .footer-container img{
     width: 483.87px;
     height: 110px;
@@ -239,4 +238,7 @@ input[type=submit]:hover {
         display: flex;
         flex-direction: column;
 
+    }
+    footer{
+        display:flex;
     }
